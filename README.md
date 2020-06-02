@@ -18,8 +18,8 @@ We discussed:
   <li> Bootstrap (main focus)</li>
   <li> Basics of website design using Figma</li>
  </ul>
- I had already done some work in HTML development, so it turned out to be easy.
-
+ I had already done some HTML development, so it turned out to be easy.
+<br><br>
 Hope this helps!
 <br>
 Samhita Joshi
