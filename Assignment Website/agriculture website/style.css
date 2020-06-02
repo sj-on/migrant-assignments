@@ -1,0 +1,39 @@
+.navs{
+    margin-top: 30px;
+    margin-bottom: 20px;
+    border-bottom-width: thick;
+    border-bottom-style: solid;
+    border-bottom-color: rgb(94, 50, 50);
+}
+
+.heads span{
+    color: rgb(94, 50, 50);
+}
+.heads{
+    margin-top: 80px;
+}
+
+.writes{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+
+.bodys{
+    margin-top: 60px;
+    margin-bottom: 50px;
+}
+
+.col-sm h3{
+    padding-top: ;
+}
+#left{
+    border-left-width: thick;
+    border-left-color: rgb(85, 80, 80);
+    border-left-style: solid;
+}
+#right{
+    border-right-style: solid;
+    border-right-width: thick;
+    border-right-color: rgb(85, 80, 80);
+}
