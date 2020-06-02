@@ -1,0 +1,118 @@
+/* #6EECD5
+#58E7FB
+#67E4EC */
+
+.heads{
+    background-color: #6EECD5;
+    height: 22vh;
+}
+
+.chem{
+    
+background: #58E7FB;
+height: 30vh;
+}
+
+.cont{
+  height: 83vh;  
+background: #67E4EC;
+
+}
+
+.heads span img{
+    width: 311px;
+height: 256px;
+left: -29px;
+top: 35px;
+position: absolute;
+}
+
+.chem h1{
+    position: absolute;
+width: 1017px;
+height: 77px;
+left: 453px;
+top: 181px;
+font-size: 49px;
+line-height: 62px;
+}
+
+.joe p{
+    position: absolute;
+width: 344px;
+height: 54px;
+left: 669px;
+top: 458px;
+
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 71px;
+text-align: center;
+}
+
+.para p{
+    position: absolute;
+width: 1221px;
+height: 258px;
+left: 126px;
+top: 582px;
+color: rgb(55, 5, 119);
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 71px;
+text-align: center;
+}
+
+.chemfinity p{
+    position: absolute;
+width: 283px;
+height: 23px;
+left: 44px;
+top: 970px; 
+font-style: normal;
+font-weight: normal;
+font-size: 26px;
+line-height: 36px;
+color: azure;
+}
+
+#one{
+    position: absolute;
+width: 221px;
+height: 36px;
+left: 656px;
+top: 90px;
+font-style: normal;
+font-weight: normal;
+font-size: 26px;
+line-height: 26px;
+
+}
+
+#two{
+    position: absolute;
+width: 248px;
+height: 36px;
+left: 928px;
+top: 90px;
+
+font-style: normal;
+font-weight: normal;
+font-size: 26px;
+line-height: 26px;
+}
+
+#three{
+    position: absolute;
+width: 151px;
+height: 36px;
+left: 1227px;
+top: 91px;
+
+font-style: normal;
+font-weight: normal;
+font-size: 26px;
+line-height: 26px;
+}
